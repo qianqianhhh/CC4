@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/压测工具4.0/app/src/main/java/com/qian/cc4/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 20,
+          "index": 20,
+          "line": 0
+        },
+        "start": {
+          "column": 20,
+          "index": 20,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/压测工具4.0/app/src/main/java/com/qian/cc4/MainActivity.java"
+}
